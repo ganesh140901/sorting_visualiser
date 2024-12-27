@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "author": {
-    "name": "0xBitBuster"
+    "name": "ganesh"
   },
   "dependencies": {
     "react": "^18.2.0",
